@@ -6,7 +6,15 @@ All the changes maked to the project will be showed here.
 - Admin Page
 - Buy VIP w/ Auto Activation 
 - Gift VIP w/ Auto Activation
-- Discord Integration 
+- Discord Integration
+
+## [2.1] - 09-06-2019
+### Fixed
+- Predefined Language now working well
+
+### Changed
+- Changed header to a separated file
+- Removed $apikey from SteamConfig.php. Now it is located in config.php
 
 ## [2.0] - 08-06-2019
 ### Added
